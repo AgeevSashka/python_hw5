@@ -1,3 +1,4 @@
 import random
+import os
 
-print(random.randint(1,5))
+print(os.getcwd())
