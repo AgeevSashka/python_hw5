@@ -1,3 +1,3 @@
 import random
-import os
-import shutil
+
+print(random.randint(1,5))
