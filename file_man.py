@@ -75,5 +75,3 @@ def file_manege():
             break
         else:
             print('Введенные данные должны быть числом от 1 - 12')
-
-file_manege()
